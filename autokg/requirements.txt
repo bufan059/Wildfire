@@ -1,0 +1,11 @@
+numpy
+openai
+langchain
+tiktoken
+networkx
+pillow
+PyPDF2
+python-docx
+graphlearning
+Annoy
+pandas
